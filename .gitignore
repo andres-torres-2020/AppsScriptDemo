@@ -1,3 +1,10 @@
+# @google/clasp files
+.clasp.json
+.*.clasp.json
+__.git/
+.git/
+__skip/
+
 # Logs
 logs
 *.log
