@@ -1,2 +1,2 @@
-# Twilio Execution Export to Google Sheet
-Twilio Export to Google Sheet using Apps Script
+# Twilio Execution Import to Google Sheet
+Import Twilio Executions to Google Sheet using Apps Script
